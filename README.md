@@ -21,7 +21,7 @@ Bonus chapter that is actually covered in this paper:
 
 Cychosz, M., Winn, M., & Goupell, M. (to appear). How to vocode: Using vocoders for cochlear implant research. *Journal of the Acoustical Society of America* [https://osf.io/preprints/psyarxiv/yrqnu]
      
-     and the affiliated Github repository: [https://github.com/ListenLab/Vocoder]
+and the affiliated Github repository: [https://github.com/ListenLab/Vocoder]
 
 If you use any of the materials, please cite this repository: 
 
