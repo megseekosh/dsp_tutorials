@@ -23,6 +23,10 @@ Cychosz, M., Winn, M., & Goupell, M. (to appear). How to vocode: Using vocoders 
 
 and the affiliated Github repository: [https://github.com/ListenLab/Vocoder]
 
+## Data
+
+* /long_files - unzip this directory to access the audio files used in chapter 1
+
 ## How to cite
 
 If you use any of the materials, please cite this repository: 
