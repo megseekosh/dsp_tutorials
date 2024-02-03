@@ -25,7 +25,7 @@ and the affiliated Github repository: [https://github.com/ListenLab/Vocoder]
 
 ## Data
 
-* /long_files - unzip this directory to access the audio files used in chapter 1
+* `long_files/` - unzip this directory to access the audio files used in chapter 1
 
 ## How to cite
 
