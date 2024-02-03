@@ -6,7 +6,8 @@ Cychosz, M. (2024). *Digital Signal Processing for Speech, Language, and Hearing
 
 ## Chapters
 
-1. Introduction: *Tpics covered: What is DSP?, Reading an audio file into a computer and playing it back, sampling rate, quantization, clipping, mono vs. stereo* 
+### 1. Introduction: 
+*Topics covered: What is DSP?, Reading an audio file into a computer and playing it back, sampling rate, quantization, clipping, mono vs. stereo* 
 2. Measurement & Manipulation: *Topics covered: amplitude measurement, conversion, fades, modulation, sound localization, amplitude manipulation*
 3. Speech Synthesis *Topics covered: synthesizing simple, complex, and aperiodic signals*
 4. Fourier Transforms *Topics covered: defining the discrete Fourier transform, plotting, inverse discrete Fourier transform, Harmonics, Leakage, FFT, Sampling & FFT*
