@@ -1,6 +1,8 @@
 # dsp_tutorials
 
-This repository contains the notebooks (code+tutorials) and toy data (for practice problems) that constitute an e-book that I wrote: *Digital Signal Processing for Speech, Language, and Hearing Scientists.*
+This repository contains the notebooks (code+tutorials) and toy data (for practice problems) that constitute an e-book that I wrote:
+
+Cychosz, M. (2024). *Digital Signal Processing for Speech, Language, and Hearing Scientists.* Github repository. [https://github.com/megseekosh/dsp_tutorials]
 
 ## Chapters
 
