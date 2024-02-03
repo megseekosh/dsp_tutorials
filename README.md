@@ -18,6 +18,7 @@ Topics covered: *Defining the discrete Fourier transform, plotting, inverse disc
 Topics covered: *Finite impulse response filters, Moving average filters, convolution, low-pass filters, filter order, windowing, band-pass filters, high-pass filters, pre-emphasis, scaling gain, speech perception & production filters* 
 ### 6. Vocoders 
 Bonus chapter that is actually covered in this paper:
+
 Cychosz, M., Winn, M., & Goupell, M. (to appear). How to vocode: Using vocoders for cochlear implant research. *Journal of the Acoustical Society of America* [https://osf.io/preprints/psyarxiv/yrqnu]
      and the affiliated Github repository: [https://github.com/ListenLab/Vocoder]
 
