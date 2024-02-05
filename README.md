@@ -36,4 +36,4 @@ Cychosz, M. (2024). *Digital Signal Processing for Speech, Language, and Hearing
 
 ## Disclaimer
 
-I'm a trained linguist (not an engineer!). If you find an error, let me know so I can make this resource better! I don't really get any "credit" for this e-book since it's not peer-reviewed-that's not why I wrote it. I just think DSP is super important for students in my field(s), and I hope that my unique path to engineering actually makes me better at explaining some of these concepts. Happy digital dignal processing! Enjoy! 
+I'm a trained linguist (not an engineer!). If you find an error, let me know so I can make this resource better! I don't really get any "credit" for this e-book since it's not peer-reviewed-that's not why I wrote it. I just think DSP is super important for students in my field(s), and I hope that my unique path to engineering actually makes me better at explaining some of these concepts. Happy digital signal processing! Enjoy! 
