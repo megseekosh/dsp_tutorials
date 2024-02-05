@@ -15,7 +15,7 @@ Topics covered: *Synthesizing simple, complex, and aperiodic signals*
 ### 4. Fourier Transforms 
 Topics covered: *Defining the discrete Fourier transform, plotting, inverse discrete Fourier transform, harmonics, leakage, FFT, sampling & FFT*
 ### 5. Digital Filters 
-Topics covered: *Finite impulse response filters, Moving average filters, convolution, low-pass filters, filter order, windowing, band-pass filters, high-pass filters, pre-emphasis, scaling gain, speech perception & production filters* 
+Topics covered: *Finite impulse response filters, Moving average filters, convolution, low-pass filters, filter order, windowing, band-pass filters, high-pass filters, pre-emphasis, scaling gain, speech production filters* 
 ### 6. Channel Vocoders 
 Bonus chapter that is actually covered in this paper:
 
